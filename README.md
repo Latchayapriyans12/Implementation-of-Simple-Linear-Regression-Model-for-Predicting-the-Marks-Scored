@@ -67,7 +67,7 @@ print('thank you')
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+<img width="809" height="2009" alt="image" src="https://github.com/user-attachments/assets/05c598e3-767a-4056-a48e-f9750b049b29" />
 
 
 ## Result:
